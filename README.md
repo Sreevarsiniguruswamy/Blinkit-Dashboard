@@ -1,4 +1,4 @@
-# Blinkit Dashboard  
+# BLINKIT SALES ANALYSIS 
 A visually interactive and insightful dashboard created in Power BI to analyze sales, outlet performance, and customer trends for Blinkit, a last-minute delivery app.  
 
 ## Features  
